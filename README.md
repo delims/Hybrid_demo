@@ -113,7 +113,7 @@ self.webView.frame = self.view.bounds;
 ```
 我们来运行一下
 
-![效果图](https://delims.github.io/cocoapods/images/hybrid.jpg)
+![效果图](https://delims.github.io/static/cocoapods/images/hybrid.jpg)
 
 有点丑，但是不影响我们调试功能
 依次点击三个按钮后打印信息如下
